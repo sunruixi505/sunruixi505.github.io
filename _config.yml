@@ -23,7 +23,7 @@ repository               : "sunruixi505/sunruixi505.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : "profile.png"
   name             : "Ruixi Sun"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics"
